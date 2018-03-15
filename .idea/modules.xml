@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gradient_button.iml" filepath="$PROJECT_DIR$/Gradient_button.iml" />
+      <module fileurl="file://C:\Users\sjagm\AndroidStudioProjects\firebaseauthentication\Gradient_button\MyApplication.iml" filepath="C:\Users\sjagm\AndroidStudioProjects\firebaseauthentication\Gradient_button\MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\sjagm\AndroidStudioProjects\firebaseauthentication\Gradient_button\app\app.iml" filepath="C:\Users\sjagm\AndroidStudioProjects\firebaseauthentication\Gradient_button\app\app.iml" />
     </modules>
   </component>
 </project>
